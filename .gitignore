@@ -1,0 +1,11 @@
+/results*/*
+/.ipynb_checkpoints/
+/__pycache__/
+/img_align_celeba/
+/models/*/*
+draft.py
+functions.py
+GAN2.py
+VGG GAN (old version).ipynb
+DCGAN.py
+DCGAN.ipynb
